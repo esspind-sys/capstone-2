@@ -1,0 +1,13 @@
+Spoonful Technologies Customer Support Guidelines
+
+Handling Customer Complaints
+All customer complaints must be logged in the support system within 30 minutes of receipt. Complaints are categorized by severity: Low, Medium, High, and Critical.
+
+Response Time Targets
+Critical issues require a response within 1 hour. High issues within 4 hours. Medium within one business day. Low within three business days.
+
+Escalation Path
+If a support agent cannot resolve an issue within the target time, it is escalated to a team lead, then to engineering if a product defect is suspected. The primary support contact is Jane Doe, reachable at jane.doe@example.com or 555-0142.
+
+Customer Satisfaction
+After every resolved ticket, customers receive a satisfaction survey scored 1 to 5. Support agents are expected to maintain an average satisfaction score above 4.0.

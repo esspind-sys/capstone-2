@@ -1,0 +1,13 @@
+Spoonful Technologies Code Review Process
+
+Overview
+All code changes must be reviewed before merging to the main branch. No direct commits to main are permitted.
+
+Pull Request Requirements
+Every pull request must include a description of the change, links to the relevant ticket, and passing automated tests. Pull requests should be small and focused — ideally under 400 lines of changed code.
+
+Reviewer Responsibilities
+At least one approval from a senior engineer is required. Reviewers check for correctness, readability, test coverage, and security issues. Reviewers must respond to review requests within one business day.
+
+Merge Criteria
+A pull request may be merged once it has the required approvals, all automated checks pass, and any requested changes have been addressed. The author is responsible for merging their own approved pull requests.
